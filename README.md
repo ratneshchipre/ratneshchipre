@@ -1,4 +1,4 @@
-<h1 align="center">Hey!👋 , I'm Ratnesh Chipre<br>I am a Web Developer, well...... a beginner : )</h1>
+<h1 align="center">Hey!👋 , I'm Ratnesh Chipre</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ### <h1 align="left">🙋‍♂️ About Me:</h1>
 
-### <p align="left"> Passionate about `coding` , `programming` and wanderlusting the world of `Web Development`. <br>Eager to learn, communicate, craft and innovate new idea's with students, professionals and mentors! Skilled in `HTML` and `CSS` with working knowledge of `JavaScript`. Let's connect and build unique tech projects and solutions. <br><br>Happy Building! 🚀</p>
+### <p align="left">I am a Web Developer, well...... a beginner : )<br> Passionate about `coding` , `programming` and wanderlusting the world of `Web Development`. <br>Eager to learn, communicate, craft and innovate new idea's with students, professionals and mentors! Skilled in `HTML` and `CSS` with working knowledge of `JavaScript`. Let's connect and build unique tech projects and solutions. <br><br>Happy Building! 🚀</p>
 
 
 ###
