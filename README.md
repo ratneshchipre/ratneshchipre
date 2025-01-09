@@ -1,11 +1,5 @@
 <h1 align="center">Hey!👋 , I'm Ratnesh Chipre</h1>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ratneshchipre.ratneshchipre&left_color=darkslategray&left_text=Profile%20Views"  />
-</div>
-
 ### <h1 align="left">🙋‍♂️ About Me:</h1>
 
 ### <p align="left">I am a Web Developer, well...... a beginner : )<br> Passionate about `coding` , `programming` and wanderlusting the world of `Web Development`. <br>Eager to learn, communicate, craft and innovate new idea's with students, professionals and mentors! Skilled in `HTML` and `CSS` with working knowledge of `JavaScript`. Let's connect and build unique tech projects and solutions. <br><br>Happy Building! 🚀</p>
