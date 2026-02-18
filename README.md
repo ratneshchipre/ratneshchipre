@@ -8,7 +8,7 @@ Visit my portfolio website: [ratneshxc.vercel.app](https://ratneshxc.vercel.app)
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,redux,prisma,nodejs,express,mongodb,postgres,supabase,postman,pnpm,vercel,git&perline=8)](https://ratneshxc.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,redux,prisma,nodejs,express,mongodb,postgres,supabase,postman,bun,pnpm,vercel,git&perline=8)](https://ratneshxc.vercel.app)
 
 ## Get in touch
 
