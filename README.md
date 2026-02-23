@@ -2,6 +2,8 @@
 
 **Full-Stack web developer** crafting digital experiences for **1+ year**.
 
+Currently building [draftlogo](https://www.draftlogo.com)
+
 I've worked with **SaaS platforms** and **startups**, finding that sweet spot between **beautiful interfaces** and **solid architecture**.
 
 Visit my portfolio website: [ratneshxc.vercel.app](https://ratneshxc.vercel.app)
