@@ -7,18 +7,3 @@ Currently building [draftlogo](https://www.draftlogo.com) & [Page Views API](htt
 I've worked with **SaaS platforms** and **startups**, finding that sweet spot between **beautiful interfaces** and **solid architecture**.
 
 Visit my portfolio website: [ratneshc.com](https://ratneshc.com)
-
-## Tools
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,redux,prisma,nodejs,express,mongodb,postgres,supabase,postman,bun,pnpm,vercel,git&perline=8)](https://ratneshxc.vercel.app)
-
-## Get in touch
-
-[![Get in touch](https://skillicons.dev/icons?i=twitter)](https://x.com/ratneshchipre)
-[![Get in touch](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ratneshchipre/)
-[![Get in touch](https://skillicons.dev/icons?i=gmail)](mailto:ratneshchipre@gmail.com)
-
-## GitHub Stats
-
-![Ratnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratneshchipre&theme=dark&show_icons=true)
-![Ratnesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratneshchipre&layout=compact&theme=dark)
