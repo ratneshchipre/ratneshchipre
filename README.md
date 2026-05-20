@@ -2,4 +2,4 @@
 
 Currently building [draftlogo](https://www.draftlogo.com) & [Page Views API](https://page-views-api.ratneshc.com)
 
-Visit my portfolio website – [ratneshc.com](https://ratneshc.com)
+Visit my portfolio website: [ratneshc.com](https://ratneshc.com)
